@@ -1,0 +1,29 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Amatic SC', cursive
+}
+body {
+   font-family: 'Miriam Libre', sans-serif;
+}
+html {
+    background-color: gray;
+}
+ul {
+    font-size: 30px;
+}
+li {
+    font-size: 22px;
+}
+img {
+    max-height: 350px;
+    max-width: 300px;
+    width: 250px;
+    height: 250px;
+}
+h2 {
+    font-size: 50.px;
+}
+h3 {
+    font-size: 30px;
+}
